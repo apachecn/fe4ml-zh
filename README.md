@@ -4,8 +4,8 @@
 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
-* 原文：[Feature Engineering for Machine Learning (Early Release)](https://www.safaribooksonline.com/library/view/feature-engineering-for/9781491953235/)（注册后可阅读）
-* **ApacheCN - 学习机器学习群【629470233】**[![](images/MainPage/ApacheCN-group.png)](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
+* 原文（注册后可阅读）：[Feature Engineering for Machine Learning (Early Release)](https://www.safaribooksonline.com/library/view/feature-engineering-for/9781491953235/)
+* **[ApacheCN - 学习机器学习群【629470233】](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)**
 * **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache中文网）](http://www.apachecn.org/)**
 * **[@SeanCheney](https://www.jianshu.com/u/130f76596b02) 翻译的[利用 Python 进行数据分析·第二版](https://www.jianshu.com/p/04d180d90a3f)**
 
