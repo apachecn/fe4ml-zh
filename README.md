@@ -35,7 +35,7 @@
 | 一、引言 | |
 | 二、简单数字的花式技巧 | |
 | 三、文本数据：展开、过滤和分块 | [@kkejili](https://github.com/kkejili) |
-| 四、特征缩放的效果：从词袋到 TF-IDF | |
+| 四、特征缩放的效果：从词袋到 TF-IDF | [@gin](https://github.com/tirtile) |
 | 五、类别变量：机器鸡时代的鸡蛋计数 | |
 | 六、降维：使用 PCA 摊数据饼 | [@cn-Wziv](https://github.com/cn-Wziv) |
 | 七、非线性特征提取和模型堆叠 | [@friedhelm739](https://github.com/friedhelm739) |
