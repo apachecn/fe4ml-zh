@@ -41,7 +41,7 @@
 | 七、非线性特征提取和模型堆叠 | [@friedhelm739](https://github.com/friedhelm739) |
 | 八、自动化特征提取器：图像特征提取和深度学习 | [@friedhelm739](https://github.com/friedhelm739) |
 | 九、回到特征：将它们放到一起 | |
-| 附录、线性模型和线性代数基础 | |
+| 附录、线性模型和线性代数基础 | [@Sherlock-kid](https://github.com/Sherlock-kid) |
 
 ## 免责声明
 
