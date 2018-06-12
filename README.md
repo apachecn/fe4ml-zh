@@ -32,22 +32,26 @@
 
 | 标题 | 译者 | 校对 |
 | --- | --- | --- |
-| 一、引言 | |
+| 一、引言 | [@ZhipengYe](https://github.com/ZhipengYe) |
 | 二、简单数字的花式技巧 | |
-| 三、文本数据：展开、过滤和分块 | [@kkejili](https://github.com/kkejili) |
+| 三、文本数据：展开、过滤和分块 | [@kkejili](https://github.com/kkejili) | [@HeYun](https://github.com/KyrieHee) |
 | 四、特征缩放的效果：从词袋到 TF-IDF | [@gin](https://github.com/tirtile) |
-| 五、类别变量：机器鸡时代的鸡蛋计数 | |
+| 五、类别变量：机器鸡时代的鸡蛋计数 | [@ZhenLei Xu](https://github.com/HadXu) |
 | 六、降维：使用 PCA 摊数据饼 | [@cn-Wziv](https://github.com/cn-Wziv) |
 | 七、非线性特征提取和模型堆叠 | [@friedhelm739](https://github.com/friedhelm739) |
 | 八、自动化特征提取器：图像特征提取和深度学习 | [@friedhelm739](https://github.com/friedhelm739) |
 | 九、回到特征：将它们放到一起 | |
-| 附录、线性模型和线性代数基础 | |
+| 附录、线性模型和线性代数基础 | [@Sherlock-kid](https://github.com/Sherlock-kid) |
 
 ## 免责声明
 
 ApacheCN 纯粹出于学习目的与个人兴趣翻译本书，不追求任何经济利益。
 
 本译文只供学习研究参考之用，不得用于商业用途。ApacheCN 保留对此版本译文的署名权及其它相关权利。
+
+## 赞助我们
+
+![](http://www.apachecn.org/wp-content/uploads/2018/02/%E6%94%AF%E4%BB%98-%E5%BE%AE%E4%BF%A1%E5%92%8C%E6%94%AF%E4%BB%98%E5%AE%9D-1024x591.png)
 
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
 
