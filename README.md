@@ -11,16 +11,16 @@
 
 ## 目录
 
-+   一、引言
-+   二、简单数字的花式技巧
-+   三、文本数据：展开、过滤和分块
-+   四、特征缩放的效果：从词袋到 TF-IDF
-+   五、类别变量：机器鸡时代的鸡蛋计数
-+   六、降维：使用 PCA 摊数据饼
-+   七、非线性特征提取和模型堆叠
-+   八、自动化特征提取器：图像特征提取和深度学习
++   [一、引言](1.引言.md)
++   [二、简单数字的奇特技巧](2.简单数据的奇特技巧.md)
++   [三、文本数据：展开、过滤和分块](3.文本数据.md)
++   [四、特征缩放的效果：从词袋到 TF-IDF](4.特征缩放的效果：从词袋到_TF-IDF.md)
++   [五、类别特征：机器鸡时代的鸡蛋计数](5.类别特征.md)
++   [六、降维：使用 PCA 压缩数据集](6.降维：用_PCA_压缩数据集.md)
++   [七、非线性特征提取和模型堆叠](7.非线性特征提取和模型堆叠.md)
++   [八、自动化特征提取器：图像特征提取和深度学习](8.自动化特征提取器：图像特征提取和深度学习.md)
 +   九、回到特征：将它们放到一起
-+   附录、线性模型和线性代数基础
++   [附录、线性模型和线性代数基础](附录、线性模型和线性代数基础.md)
 
 ## 联系方式
 
@@ -33,11 +33,11 @@
 | 标题 | 译者 | 校对 |
 | --- | --- | --- |
 | 一、引言 | [@ZhipengYe](https://github.com/ZhipengYe) |
-| 二、简单数字的花式技巧 | [@coboe](https://github.com/coboe) |
+| 二、简单数字的奇特技巧 | [@coboe](https://github.com/coboe) |
 | 三、文本数据：展开、过滤和分块 | [@kkejili](https://github.com/kkejili) | [@HeYun](https://github.com/KyrieHee) |
 | 四、特征缩放的效果：从词袋到 TF-IDF | [@gin](https://github.com/tirtile) | [@HeYun](https://github.com/KyrieHee) |
-| 五、类别变量：机器鸡时代的鸡蛋计数 | [@ZhenLei Xu](https://github.com/HadXu) |
-| 六、降维：使用 PCA 摊数据饼 | [@cn-Wziv](https://github.com/cn-Wziv) | [@HeYun](https://github.com/KyrieHee) |
+| 五、类别特征：机器鸡时代的鸡蛋计数 | [@ZhenLei Xu](https://github.com/HadXu) |
+| 六、降维：使用 PCA 压缩数据集 | [@cn-Wziv](https://github.com/cn-Wziv) | [@HeYun](https://github.com/KyrieHee) |
 | 七、非线性特征提取和模型堆叠 | [@friedhelm739](https://github.com/friedhelm739) |
 | 八、自动化特征提取器：图像特征提取和深度学习 | [@friedhelm739](https://github.com/friedhelm739) |
 | 九、回到特征：将它们放到一起 | |
