@@ -33,7 +33,7 @@
 | 标题 | 译者 | 校对 |
 | --- | --- | --- |
 | 一、引言 | [@ZhipengYe](https://github.com/ZhipengYe) |
-| 二、简单数字的奇特技巧 | [@coboe](https://github.com/coboe) |
+| 二、简单数字的奇特技巧 | [@coboe](https://github.com/coboe) | [@Ziseon Jiao](https://github.com/emengjzs) |
 | 三、文本数据：展开、过滤和分块 | [@kkejili](https://github.com/kkejili) | [@HeYun](https://github.com/KyrieHee) |
 | 四、特征缩放的效果：从词袋到 TF-IDF | [@gin](https://github.com/tirtile) | [@HeYun](https://github.com/KyrieHee) |
 | 五、类别特征：机器鸡时代的鸡蛋计数 | [@ZhenLei Xu](https://github.com/HadXu) |
