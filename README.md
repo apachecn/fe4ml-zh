@@ -2,12 +2,19 @@
 
 ![](cover.jpg)
 
+> 原文（注册后可阅读）：[Feature Engineering for Machine Learning (Early Release)](https://www.safaribooksonline.com/library/view/feature-engineering-for/9781491953235/)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
-* 原文（注册后可阅读）：[Feature Engineering for Machine Learning (Early Release)](https://www.safaribooksonline.com/library/view/feature-engineering-for/9781491953235/)
-* **[ApacheCN - 学习机器学习群【629470233】](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)**
-* **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache 中文网）](http://www.apachecn.org/)**
-* **[@SeanCheney](https://www.jianshu.com/u/130f76596b02) 翻译的[《利用 Python 进行数据分析 第二版》](https://www.jianshu.com/p/04d180d90a3f)**
+* [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
+* [ApacheCN 学习资源](http://www.apachecn.org/)
+* [利用 Python 进行数据分析 第二版](https://github.com/apachecn/pyda-2e-zh)
+
+<!-- break -->
+
++   [在线阅读](http://apachecn.github.io/feature-engineering-for-ml-zh)
 
 ## 目录
 
@@ -52,14 +59,3 @@ ApacheCN 纯粹出于学习目的与个人兴趣翻译本书，不追求任何�
 ## 赞助我们
 
 <img src="http://www.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
-
-## [ApacheCN 组织资源](http://www.apachecn.org/)
-
-| 深度学习 | 机器学习  | 大数据 | 运维工具 |
-| --- | --- | --- | --- |
-| [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122) | [机器学习实战-教学](https://github.com/apachecn/MachineLearning) | [Spark 2.2.0和2.0.2 中文文档](http://spark.apachecn.org/) | [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467) |
-| [Pytorch 0.3 中文文档](http://pytorch.apachecn.org) | [Sklearn 0.19 中文文档](http://sklearn.apachecn.org/) | [Storm 1.1.0和1.0.1 中文文档](http://storm.apachecn.org/) | [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377) |
-|  | [LightGBM 中文文档](http://lightgbm.apachecn.org/cn/latest) | [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594) |  |
-|  | [XGBoost 中文文档](http://xgboost.apachecn.org/cn/latest)  | [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364) |
-|  | [kaggle: 机器学习竞赛](https://github.com/apachecn/kaggle) | [Beam 中文文档](http://beam.apachecn.org/) |
-|  | [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF) |  |
