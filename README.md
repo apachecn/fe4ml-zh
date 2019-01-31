@@ -8,13 +8,10 @@
 > 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
+* [在线阅读](http://fe4ml.apachecn.org)
 * [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 * [利用 Python 进行数据分析 第二版](https://github.com/apachecn/pyda-2e-zh)
-
-<!-- break -->
-
-+   [在线阅读](http://fe4ml.apachecn.org)
 
 ## 目录
 
@@ -29,26 +26,9 @@
 +   九、回到特征：将它们放到一起
 +   [附录、线性模型和线性代数基础](docs/附录.线性模型和线性代数基础.md)
 
-## 联系方式
-
-### 负责人
+## 负责人
 
 * [@飞龙](https://github.com/wizardforcel): 562826179
-
-### 贡献者
-
-| 标题 | 译者 | 校对 |
-| --- | --- | --- |
-| 一、引言 | [@ZhipengYe](https://github.com/ZhipengYe) |
-| 二、简单数字的奇特技巧 | [@coboe](https://github.com/coboe) | [@Ziseon Jiao](https://github.com/emengjzs) |
-| 三、文本数据：展开、过滤和分块 | [@kkejili](https://github.com/kkejili) | [@HeYun](https://github.com/KyrieHee) |
-| 四、特征缩放的效果：从词袋到 TF-IDF | [@gin](https://github.com/tirtile) | [@HeYun](https://github.com/KyrieHee) |
-| 五、类别特征：机器鸡时代的鸡蛋计数 | [@ZhenLei Xu](https://github.com/HadXu) |
-| 六、降维：使用 PCA 压缩数据集 | [@cn-Wziv](https://github.com/cn-Wziv) | [@HeYun](https://github.com/KyrieHee) |
-| 七、非线性特征提取和模型堆叠 | [@friedhelm739](https://github.com/friedhelm739) |
-| 八、自动化特征提取器：图像特征提取和深度学习 | [@friedhelm739](https://github.com/friedhelm739) |
-| 九、回到特征：将它们放到一起 | |
-| 附录、线性模型和线性代数基础 | [@Sherlock-kid](https://github.com/Sherlock-kid) |
 
 ## 免责声明
 
