@@ -38,6 +38,14 @@ ApacheCN 纯粹出于学习目的与个人兴趣翻译本书，不追求任何�
 
 ## 下载
 
+### PYPI
+
+```
+pip install fe4ml-zh
+fe4ml-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
