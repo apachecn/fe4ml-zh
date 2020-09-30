@@ -38,6 +38,14 @@ ApacheCN 纯粹出于学习目的与个人兴趣翻译本书，不追求任何�
 
 ## 下载
 
+### Docker
+
+```
+docker pull apachecn0/fe4ml-zh
+docker run -tid -p <port>:80 apachecn0/fe4ml-zh
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### PYPI
 
 ```
